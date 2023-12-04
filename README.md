@@ -1,6 +1,6 @@
 # ProZ Dictionary
 
-**ProZ Dictionary**: English to Arabic &amp; Arabic to English
+**ProZ Dictionary**: English to Arabic &amp; Arabic to English. Main source is [ProZ.com](https://www.proz.com/)
 
 <img src="./images/logo/proz-logo.png" alt="drawing" width="300"/>
 
